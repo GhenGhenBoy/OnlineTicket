@@ -45,6 +45,11 @@ p {
 	text-align: center;
 	text-decoration: none;
 	letter-spacing: 0px;
+	margin-bottom: 2rem;
+}
+
+.page-direction-button a:hover {
+	background-color: rgb(180, 207, 29);
 }
 
 .page-direction-button a i {
